@@ -1,0 +1,35 @@
+body{
+  text-align:center;
+  background:linear-gradient(#ff0000 0%, #00d4ff 48%, #090979 100%);
+}
+
+img{
+  border-style:solid;
+  border-radius:70px;
+  height:200px;
+}
+
+.menu {
+   
+   list-style: none;
+    font-family: sans-serif;
+    position:fixed;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links {
+    color:black;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:cursive;
+    font-size: 20px;
+    float: left;
+    right: 30px;
+    left: 50px;
+    
+}
